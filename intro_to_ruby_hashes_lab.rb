@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  pets = {dog: "deja", bird: "lilo"
+  pets = {dog: "deja", bird: "lilo"}
 end
 
 def pioneer
