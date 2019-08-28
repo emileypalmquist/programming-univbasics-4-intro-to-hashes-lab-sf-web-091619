@@ -1,13 +1,13 @@
 def new_hash
-  hash = {}
+  list = {}
 end
 
 def my_hash
-  hash = {dog: "deja", bird: "lilo"
+  pets = {dog: "deja", bird: "lilo"
 end
 
 def pioneer
-  hash = {name: "Grace Hopper"}
+  computer_programmer = {name: "Grace Hopper"}
 end
 
 def id_generator
