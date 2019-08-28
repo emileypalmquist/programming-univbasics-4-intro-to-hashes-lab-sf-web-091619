@@ -4,12 +4,10 @@ end
 
 def my_hash
   hash = {dog: "deja", bird: "lilo"
-  return hash
 end
 
 def pioneer
   hash = {name: "Grace Hopper"}
-  return hash
 end
 
 def id_generator
